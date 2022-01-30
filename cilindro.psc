@@ -6,7 +6,7 @@ Algoritmo cilindro
 	a = 2*PI*r*h
 	b = 2*PI*r*r
 	suma = a+b
-	Escribir "La area del cilindro es: ", suma
+	Escribir "La área del cilindro es: ", suma, " cm2"
 	c = PI*r*r*h
-	Escribir "El volumen del cilindro es: ", c
+	Escribir "El volumen del cilindro es: ", c, "cm3"
 FinAlgoritmo
